@@ -9,6 +9,7 @@ A **Next.js & React 19** web application with authentication, payments, and Mong
 - **Styling**: Tailwind CSS
 - **Linting**: ESLint
 - **Type Checking**: TypeScript
+![Next.js](https://img.shields.io/badge/Next.js-15.1.7-blue?style=flat&logo=vercel)
 
 ## 🚀 Getting Started
 First, clone the repository and install dependencies:
